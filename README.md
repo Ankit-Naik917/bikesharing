@@ -3,6 +3,9 @@
 Kate and her friend a trip to New York city and used Citibike to roam around the city and interacted with people. They had an idea to start the same type of business in Des Moines. They found an angel investor who is willing to invest in the business. To develop the proposal and get the investor on board, the request was made to do some analysis on the bikesharing data to provide better understanding to Kate and her friend.
 ## Purpose
 The purpose of this project is to utilize the bikesharing data csv file in Tableau for analysis. The analysis will be done so that it creates a baseline for developing a proposal for opening a similar business in Des Moines. Using tableau multiple scenarios will be displayed which will provide better understanding and visuals to the users.
+## Link to Dashboard
+https://public.tableau.com/app/profile/ankit.naik2727/viz/CitiBike_Trip_Analysis_Assignment/NYCitibikeAnalysis?publish=yes
+
 ## Results of the analysis
 ### Number of trips by trip duration
 Most of the trip completed in less than 1 hour where highest trips were done in 5 minutes.
